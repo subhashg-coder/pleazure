@@ -1,0 +1,81 @@
+“Build a full static Next.js website called Pleazure for sexual wellness and education. The site should be mobile-first, premium dark-themed, and app-like, fully static (no database). Use modern rounded fonts like Poppins or Montserrat Rounded. Make it fully responsive and mobile-friendly.
+
+Navigation Requirements:
+
+Home Page:
+
+Hero section with 3–5 featured article cards.
+
+Each card clickable → navigates to Article Page.
+
+CTA button “Start Exploring →” scrolls smoothly to Categories Section.
+
+Categories Section / Page:
+
+Grid of 5–6 categories (Mind & Focus, Growth & Success, Relationships, Self & Emotions, Skills & Strategy).
+
+Clicking a category card → navigates to a Category Page that lists all articles in that category.
+
+Category Page:
+
+Shows list of article cards for that category.
+
+Each article card clickable → opens Article Page.
+
+Article Page / Template:
+
+Dark background, elegant spacing.
+
+Title, subtitle, body content.
+
+Share buttons (WhatsApp, Telegram, Copy Link).
+
+At end: “Next Article →” navigation to next article in same category.
+
+Smooth transitions / app-like overlay effect (like mobile apps).
+
+About / Privacy Pages: Minimal design, dark theme, consistent fonts.
+
+Styling & UI Effects:
+
+Dark background (#0d0d0d), subtle gradients or glow highlights
+
+Glassmorphism cards with soft neon glow on hover
+
+Smooth animations: fade-in, card hover, scrolling
+
+App-like feel on mobile: easy scrolling, visually immersive
+
+Technical Requirements:
+
+Fully static pages (no database)
+
+Tailwind CSS or Styled Components for styling
+
+Components reusable for new categories / articles
+
+All images/icons in public/ folder
+
+SEO-friendly structure (meta titles, descriptions)
+
+All navigation fully functional:
+
+Category cards → category page
+
+Article cards → article page
+
+“Next Article →” works inside category
+
+Output Requirements:
+
+Generate full Next.js project folder structure: pages/, components/, public/, styles/
+
+Include sample 5–10 articles across categories
+
+Article pages and category pages fully linked
+
+Ready-to-deploy to GitHub → Cloudflare Pages
+
+Mobile-first, picture-perfect, stylish, fully functional app-like experience
+
+Make it look professional, clean, dark-themed, and app-like. Include all navigation logic so no manual linking is required after generation.”
